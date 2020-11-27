@@ -1,5 +1,4 @@
-# markOne---personal-quiz
-Do you know me quiz for my friends
+A simple fun "Do you know me" quiz for my friends
 
 **Play Live**
 
